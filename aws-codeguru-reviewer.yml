@@ -1,0 +1,8 @@
+version: 1.0
+
+excludeFiles:
+  - '.idea/*'
+  - '.mvn/*'
+  - 'src/main/resources/*'
+  - '.gitignore'
+  - 'README.md'
